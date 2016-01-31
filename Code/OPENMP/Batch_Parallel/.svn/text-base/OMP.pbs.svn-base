@@ -1,0 +1,30 @@
+#PBS -q class
+#PBS -l nodes=1:sixcore
+#PBS -l walltime=00:20:00
+#PBS -N OMP_Astar
+
+# Changes to the directory we were in when we
+# submit the job:
+
+cd $PBS_O_WORKDIR
+
+# Runs a bunch of standard command-line
+# utilities, just as an example:
+ source ~/setup-gcc-4.9.1.bash
+echo "Script began:" `date`
+echo "Node:" `hostname`
+echo "Current directory: ${PWD}"
+
+echo ""
+echo "=== Running 5 trials of openmp Astar ... ==="
+  ./OMPas 1000 maps/ 1 1
+  ./OMPas 1000 maps/ 1 2
+  ./OMPas 1000 maps/ 1 3
+  ./OMPas 1000 maps/ 1 4
+  ./OMPas 1000 maps/ 1 5
+  ./OMPas 1000 maps/ 1 6
+  ./OMPas 1000 maps/ 1 8
+echo ""
+echo "=== Done! ==="
+
+# eof

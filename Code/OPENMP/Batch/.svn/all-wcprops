@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/220/trunk/Code/OPENMP/Batch
+END
+version.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/version.cpp.in
+END
+searchutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/searchutils.h
+END
+tiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/tiling.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/220/trunk/Code/OPENMP/Batch/Makefile
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/error.h
+END
+Makefile.experiments
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/Makefile.experiments
+END
+wrapSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/wrapSearch.cpp
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/statistics.h
+END
+pathfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/pathfind.h
+END
+fringesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/fringesearch.h
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/graph.h
+END
+environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/environment.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/search.h
+END
+bitmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/bitmap_test.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/util.cpp
+END
+fsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/fsa.h
+END
+astar.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/135/trunk/Code/OPENMP/Batch/astar.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/timer.c
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/map.h
+END
+mainLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/mainLoop.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/timer.h
+END
+searchutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/searchutils.cpp
+END
+tiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/tiling.cpp
+END
+mpi.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/mpi.pbs
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/error.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/main.h
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/statistics.cpp
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/node.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/version.h
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/220/trunk/Code/OPENMP/Batch/driver.cpp
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/example.cpp
+END
+idastar.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/idastar.h
+END
+OMP.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/Code/OPENMP/Batch/OMP.pbs
+END
+fringesearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/fringesearch.cpp
+END
+wrapSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/wrapSearch.h
+END
+environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/environment.cpp
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/search.cpp
+END
+driveTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/driveTest.cpp
+END
+astar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/135/trunk/Code/OPENMP/Batch/astar.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/map.cpp
+END
+mainLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/mainLoop.cpp
+END
+image.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/image.bmp
+END
+image.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/image.xcf
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/util.h
+END
+SerialA.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/SerialA.pbs
+END
+bitmap_image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/bitmap_image.hpp
+END
+bitmap_image.hpp.gch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/bitmap_image.hpp.gch
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/main.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/version.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/node.cpp
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/marker.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/COPYING
+END
+idastar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133/trunk/Code/OPENMP/Batch/idastar.cpp
+END

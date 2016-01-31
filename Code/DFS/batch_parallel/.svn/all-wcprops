@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/231/trunk/Code/DFS/batch_parallel
+END
+astar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/astar.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/map.cpp
+END
+mainLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/Code/DFS/batch_parallel/mainLoop.cpp
+END
+image.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/image.bmp
+END
+mainLoop_as_.s
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/mainLoop_as_.s
+END
+image.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/image.xcf
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/util.h
+END
+SerialA.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/SerialA.pbs
+END
+bitmap_image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/bitmap_image.hpp
+END
+bitmap_image.hpp.gch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/bitmap_image.hpp.gch
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/main.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/version.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/node.cpp
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/marker.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/COPYING
+END
+idastar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/idastar.cpp
+END
+version.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/version.cpp.in
+END
+searchutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/searchutils.h
+END
+tiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/tiling.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/Makefile
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/error.h
+END
+Makefile.experiments
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/Makefile.experiments
+END
+wrapSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/160/trunk/Code/DFS/batch_parallel/wrapSearch.cpp
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/statistics.h
+END
+pathfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/pathfind.h
+END
+fringesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/159/trunk/Code/DFS/batch_parallel/fringesearch.h
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/graph.h
+END
+environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/environment.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/search.h
+END
+bitmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/bitmap_test.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/util.cpp
+END
+fsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/fsa.h
+END
+astar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/astar.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/timer.c
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/map.h
+END
+mainLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/mainLoop.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/timer.h
+END
+searchutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/searchutils.cpp
+END
+tiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/tiling.cpp
+END
+mpi.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/mpi.pbs
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/error.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/main.h
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/statistics.cpp
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/node.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/version.h
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/driver.cpp
+END
+idastar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/idastar.h
+END
+OMP.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/OMP.pbs
+END
+fringesearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/fringesearch.cpp
+END
+wrapSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/wrapSearch.h
+END
+environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/environment.cpp
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/155/trunk/Code/DFS/batch_parallel/search.cpp
+END

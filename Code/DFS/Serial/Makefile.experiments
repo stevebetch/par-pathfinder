@@ -1,0 +1,17 @@
+CXX = g++
+
+CXXFLAGS = -Wall -g -O3 -DNDEBUG
+
+CXXFLAGS_G = -Wall -g
+
+%.o: %.cpp
+	$(CXX) -c $(CXXFLAGS) -o $@ $<
+
+%_g.o: %.cpp
+	$(CXX) -c $(CXXFLAGS_G) -o $@ $<
+
+experiments: experiments.o libpathfind.a
+	$(CXX) -o $@ experiments.o -L. -lpathfind
+
+experiments_g: experiments_g.o libpathfind_g.a
+	$(CXX) -o $@ experiments_g.o -L. -lpathfind_g

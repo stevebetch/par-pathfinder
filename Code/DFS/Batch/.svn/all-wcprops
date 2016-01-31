@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/194/trunk/Code/DFS/Batch
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/search.h
+END
+bitmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/bitmap_test.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/util.cpp
+END
+fsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/fsa.h
+END
+astar.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/astar.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/190/trunk/Code/DFS/Batch/timer.c
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/map.h
+END
+mainLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/mainLoop.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/timer.h
+END
+searchutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/searchutils.cpp
+END
+tiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/tiling.cpp
+END
+mpi.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/mpi.pbs
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/error.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/main.h
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/statistics.cpp
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/node.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/version.h
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/193/trunk/Code/DFS/Batch/driver.cpp
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/example.cpp
+END
+idastar.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/idastar.h
+END
+OMP.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/153/trunk/Code/DFS/Batch/OMP.pbs
+END
+fringesearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/fringesearch.cpp
+END
+wrapSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/194/trunk/Code/DFS/Batch/wrapSearch.h
+END
+environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/environment.cpp
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/search.cpp
+END
+astar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/astar.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/190/trunk/Code/DFS/Batch/map.cpp
+END
+mainLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/190/trunk/Code/DFS/Batch/mainLoop.cpp
+END
+image.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/image.bmp
+END
+mainLoop_as_.s
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/mainLoop_as_.s
+END
+image.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/image.xcf
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/util.h
+END
+SerialA.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/SerialA.pbs
+END
+bitmap_image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/bitmap_image.hpp
+END
+bitmap_image.hpp.gch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/bitmap_image.hpp.gch
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/main.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/version.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/node.cpp
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/marker.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/COPYING
+END
+idastar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/idastar.cpp
+END
+version.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/version.cpp.in
+END
+searchutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/searchutils.h
+END
+tiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/tiling.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/153/trunk/Code/DFS/Batch/Makefile
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/error.h
+END
+Makefile.experiments
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/Makefile.experiments
+END
+wrapSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/194/trunk/Code/DFS/Batch/wrapSearch.cpp
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/statistics.h
+END
+pathfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/pathfind.h
+END
+fringesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/fringesearch.h
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/graph.h
+END
+environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/149/trunk/Code/DFS/Batch/environment.h
+END

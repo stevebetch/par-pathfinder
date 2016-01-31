@@ -1,0 +1,26 @@
+#PBS -q class
+#PBS -l nodes=2
+#PBS -l walltime=00:05:00
+#PBS -N A*MPI
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+
+mpic++ --version
+
+echo ""
+source ~/setup-gcc-4.9.1.bash
+echo ""
+mpic++ --version
+# Run the program
+mpirun --hostfile $PBS_NODEFILE -np 2 ./example 2 maps/ 1
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof

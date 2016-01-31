@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/231/trunk/Code/Serial
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9/trunk/Code/Serial/main.h
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/Code/Serial/statistics.cpp
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/120/trunk/Code/Serial/node.h
+END
+searchutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/120/trunk/Code/Serial/searchutils.h
+END
+driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/123/trunk/Code/Serial/driver.cpp
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/120/trunk/Code/Serial/error.h
+END
+serial
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/231/trunk/Code/Serial/serial
+END
+fringesearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/120/trunk/Code/Serial/fringesearch.cpp
+END
+wrapSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/120/trunk/Code/Serial/wrapSearch.h
+END
+search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/Code/Serial/search.cpp
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/120/trunk/Code/Serial/graph.h
+END
+environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/120/trunk/Code/Serial/environment.h
+END
+bitmap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/Code/Serial/bitmap_test.cpp
+END
+mainLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/123/trunk/Code/Serial/mainLoop.cpp
+END
+fsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/120/trunk/Code/Serial/fsa.h
+END
+astar.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/120/trunk/Code/Serial/astar.h
+END
+mainLoop_as_.s
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/Code/Serial/mainLoop_as_.s
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/123/trunk/Code/Serial/timer.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/120/trunk/Code/Serial/util.h
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/57/trunk/Code/Serial/map.h
+END
+bitmap_image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/Code/Serial/bitmap_image.hpp
+END
+bitmap_image.hpp.gch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/Code/Serial/bitmap_image.hpp.gch
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13/trunk/Code/Serial/main.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/57/trunk/Code/Serial/node.cpp
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/Code/Serial/timer.h
+END
+marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/Code/Serial/marker.h
+END
+searchutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/Code/Serial/searchutils.cpp
+END
+mpi.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/120/trunk/Code/Serial/mpi.pbs
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/120/trunk/Code/Serial/error.cpp
+END
+version.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/Code/Serial/version.cpp.in
+END
+bitmap_test
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/Code/Serial/bitmap_test
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/120/trunk/Code/Serial/version.h
+END
+tiling.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/Code/Serial/tiling.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/120/trunk/Code/Serial/NEWS
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/120/trunk/Code/Serial/example.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/Code/Serial/Makefile
+END
+idastar.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/120/trunk/Code/Serial/idastar.h
+END
+Makefile.experiments
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/120/trunk/Code/Serial/Makefile.experiments
+END
+wrapSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/Code/Serial/wrapSearch.cpp
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/120/trunk/Code/Serial/statistics.h
+END
+pathfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/Code/Serial/pathfind.h
+END
+environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/Code/Serial/environment.cpp
+END
+serial_g
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/231/trunk/Code/Serial/serial_g
+END
+fringesearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/Code/Serial/fringesearch.h
+END
+driveTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/120/trunk/Code/Serial/driveTest.cpp
+END
+astar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/120/trunk/Code/Serial/astar.cpp
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/Code/Serial/search.h
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/123/trunk/Code/Serial/map.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/Code/Serial/util.cpp
+END
+image.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Code/Serial/image.bmp
+END
+image.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/Code/Serial/image.xcf
+END
+SerialA.pbs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/41/trunk/Code/Serial/SerialA.pbs
+END
+mainLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/Code/Serial/mainLoop.h
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/120/trunk/Code/Serial/version.cpp
+END
+tiling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/Code/Serial/tiling.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/120/trunk/Code/Serial/COPYING
+END
+idastar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/120/trunk/Code/Serial/idastar.cpp
+END

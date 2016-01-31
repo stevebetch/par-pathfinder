@@ -1,0 +1,133 @@
+\relax 
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\citation{amazon}
+\citation{google}
+\citation{Dong}
+\citation{Szabo}
+\citation{Botea}
+\citation{Inam}
+\citation{Gedge}
+\citation{Nohra}
+\citation{McNally}
+\citation{Szabo}
+\citation{Accaputo}
+\citation{Nohra}
+\citation{Accaputo}
+\citation{Brand}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{3}{section.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Motivation}{3}{section.2}}
+\citation{Miller}
+\citation{Brand}
+\citation{Inam}
+\citation{Botea}
+\citation{Cohen}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Literature Survey}{4}{section.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Parallelization of the A* Algorithm}{4}{subsection.3.1}}
+\citation{Brand}
+\citation{Brand}
+\citation{Brand}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Other Parallel Path Finding Algorithms}{5}{subsection.3.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Methodology}{5}{section.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Maps}{6}{subsection.4.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Small Cross Map. 50x50 pixel, with a start point of (0,0)}}{6}{figure.1}}
+\newlabel{Small}{{1}{6}{Small Cross Map. 50x50 pixel, with a start point of (0,0)\relax }{figure.1}{}}
+\newlabel{Small@cref}{{[figure][1][]1}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Medium Map. 100x100 pixel, with a start point of (0,0)}}{6}{figure.2}}
+\newlabel{Med}{{2}{6}{Medium Map. 100x100 pixel, with a start point of (0,0)\relax }{figure.2}{}}
+\newlabel{Med@cref}{{[figure][2][]2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Large Geometric Map. 1000x1000 pixel, with a start point of (0,0)}}{7}{figure.3}}
+\newlabel{Geom}{{3}{7}{Large Geometric Map. 1000x1000 pixel, with a start point of (0,0)\relax }{figure.3}{}}
+\newlabel{Geom@cref}{{[figure][3][]3}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Large Area of Regard Map. 1000x1000 pixel, with a start point of (0,0)}}{8}{figure.4}}
+\newlabel{AOR}{{4}{8}{Large Area of Regard Map. 1000x1000 pixel, with a start point of (0,0)\relax }{figure.4}{}}
+\newlabel{AOR@cref}{{[figure][4][]4}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}A*}{8}{subsection.4.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.1}Batch}{8}{subsubsection.4.2.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.2}Batch Parallel}{8}{subsubsection.4.2.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.2.3}MPI}{9}{subsubsection.4.2.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Fringe Search}{9}{subsection.4.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Results}{9}{section.5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}A*}{10}{subsection.5.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.1}Serial}{10}{subsubsection.5.1.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Average Map runtimes and path lengths }}{10}{figure.5}}
+\newlabel{SM}{{5}{10}{Average Map runtimes and path lengths\relax }{figure.5}{}}
+\newlabel{SM@cref}{{[figure][5][]5}{10}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.2}Batch}{10}{subsubsection.5.1.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Runtime of 1000 iterations in Batch mode on Cilk and OpenMP}}{11}{figure.6}}
+\newlabel{CvMP}{{6}{11}{Runtime of 1000 iterations in Batch mode on Cilk and OpenMP\relax }{figure.6}{}}
+\newlabel{CvMP@cref}{{[figure][6][]6}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Comparison of Serial Runtimes}}{11}{figure.7}}
+\newlabel{Stime}{{7}{11}{Comparison of Serial Runtimes\relax }{figure.7}{}}
+\newlabel{Stime@cref}{{[figure][7][]7}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces MPI Runtimes}}{12}{figure.8}}
+\newlabel{MPIr}{{8}{12}{MPI Runtimes\relax }{figure.8}{}}
+\newlabel{MPIr@cref}{{[figure][8][]8}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces MPI Runtimes with the modified scheduler vs initial scheduler.}}{12}{figure.9}}
+\newlabel{MPIr2}{{9}{12}{MPI Runtimes with the modified scheduler vs initial scheduler}{figure.9}{}}
+\newlabel{MPIr2@cref}{{[figure][9][]9}{12}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.1.3}Batch Parallel}{13}{subsubsection.5.1.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Runtimes of OpenMP and Cilk in Batch Parallel mode}}{13}{figure.10}}
+\newlabel{MPvC}{{10}{13}{Runtimes of OpenMP and Cilk in Batch Parallel mode\relax }{figure.10}{}}
+\newlabel{MPvC@cref}{{[figure][10][]10}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Runtimes of MPI in Batch Parallel mode}}{14}{figure.11}}
+\newlabel{MPbp}{{11}{14}{Runtimes of MPI in Batch Parallel mode\relax }{figure.11}{}}
+\newlabel{MPbp@cref}{{[figure][11][]11}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Fringe Search}{14}{subsection.5.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Total speedup graph of all the methods implemented}}{15}{figure.12}}
+\newlabel{Alldata}{{12}{15}{Total speedup graph of all the methods implemented\relax }{figure.12}{}}
+\newlabel{Alldata@cref}{{[figure][12][]12}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{15}{section.6}}
+\bibcite{Accaputo}{1}
+\bibcite{Allen}{2}
+\bibcite{amazon}{3}
+\bibcite{Brand}{4}
+\bibcite{Botea}{5}
+\bibcite{Cohen}{6}
+\bibcite{Dong}{7}
+\bibcite{Gedge}{8}
+\bibcite{google}{9}
+\bibcite{Inam}{10}
+\bibcite{McNally}{11}
+\bibcite{Miller}{12}
+\bibcite{Nohra}{13}
+\bibcite{Phipps}{14}
+\bibcite{Szabo}{15}
+\bibcite{ Standley}{16}
+\@writefile{toc}{\contentsline {section}{References}{16}{section.6}}
+\@writefile{toc}{\contentsline {section}{Appendices}{17}{section.6}}
+\@writefile{toc}{\contentsline {section}{\numberline {A}Maps}{17}{appendix.A}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Small Cross Map. 50x50 pixel, with a start point of (0,0)}}{17}{figure.13}}
+\newlabel{default}{{13}{17}{Small Cross Map. 50x50 pixel, with a start point of (0,0)\relax }{figure.13}{}}
+\newlabel{default@cref}{{[figure][13][2147483647]13}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Small Area Of Regard, version 1. with a 50x50 pixel, start point of (0,0)}}{17}{figure.14}}
+\newlabel{default}{{14}{17}{Small Area Of Regard, version 1. with a 50x50 pixel, start point of (0,0)\relax }{figure.14}{}}
+\newlabel{default@cref}{{[figure][14][2147483647]14}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Small Area Of Regard, version 2. with a 50x50 pixel, start point of (0,0)}}{17}{figure.15}}
+\newlabel{default}{{15}{17}{Small Area Of Regard, version 2. with a 50x50 pixel, start point of (0,0)\relax }{figure.15}{}}
+\newlabel{default@cref}{{[figure][15][2147483647]15}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Medium Map. 100x100 pixel, with a start point of (0,0)}}{18}{figure.16}}
+\newlabel{default}{{16}{18}{Medium Map. 100x100 pixel, with a start point of (0,0)\relax }{figure.16}{}}
+\newlabel{default@cref}{{[figure][16][2147483647]16}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Large Geometric Map. 1000x1000 pixel, with a start point of (0,0)}}{18}{figure.17}}
+\newlabel{default}{{17}{18}{Large Geometric Map. 1000x1000 pixel, with a start point of (0,0)\relax }{figure.17}{}}
+\newlabel{default@cref}{{[figure][17][2147483647]17}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Large Area of Regard Map. 1000x1000 pixel, with a start point of (0,0)}}{19}{figure.18}}
+\newlabel{default}{{18}{19}{Large Area of Regard Map. 1000x1000 pixel, with a start point of (0,0)\relax }{figure.18}{}}
+\newlabel{default@cref}{{[figure][18][2147483647]18}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Los Angeles Airspace}}{19}{figure.19}}
+\newlabel{LAX}{{19}{19}{Los Angeles Airspace\relax }{figure.19}{}}
+\newlabel{LAX@cref}{{[figure][19][2147483647]19}{19}}

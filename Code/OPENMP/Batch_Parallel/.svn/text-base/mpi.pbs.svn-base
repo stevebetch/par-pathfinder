@@ -1,0 +1,47 @@
+#PBS -q class
+#PBS -l nodes=8
+#PBS -l walltime=00:35:00
+#PBS -N A*MPI
+
+export OMPI_MCA_mpi_yield_when_idle=0
+cd $PBS_O_WORKDIR
+
+
+echo "*** STARTED: `date` on `hostname` ***"
+echo $PWD
+cat $PBS_NODEFILE
+echo -e "\n\n"
+
+mpic++ --version
+
+echo ""
+source ~/setup-gcc-4.9.1.bash
+echo ""
+mpic++ --version
+# Run the program
+echo “Begin the Analysis Gathering! 9 Runs!”
+
+
+mpirun  -np 2 ./OMPas 1000 maps/ 1
+echo “Run1 complete”
+mpirun -np 3 ./OMPas 1000 maps/ 1
+echo “Run2 complete”
+mpirun  -np 4 ./OMPas 1000 maps/ 1
+echo “Run3 complete”
+mpirun -np 5 ./OMPas 1000 maps/ 1
+echo “Run4 complete”
+mpirun  -np 6 ./OMPas 1000 maps/ 1
+echo “Run5 complete”
+./OMPas 1000 maps/ 1
+echo “Run6 complete”
+./OMPas 1000 maps/ 1
+echo “Run7 complete”
+./OMPas 1000 maps/ 1
+echo “Run8 complete”
+mpirun -np 32 ./MPI 1000 maps/ 1
+echo “Run9 complete”
+
+
+echo "*** COMPLETED: `date` on `hostname` ***"
+
+# eof

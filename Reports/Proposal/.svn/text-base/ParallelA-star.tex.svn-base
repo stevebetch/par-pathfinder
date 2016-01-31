@@ -1,0 +1,36 @@
+\documentclass[paper=a4, fontsize=11pt]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+%\usepackage{color}
+\usepackage[english]{babel}		
+\usepackage[parfill]{parskip}													% English language/hyphenation
+\usepackage[protrusion=true,expansion=true]{microtype}	
+\usepackage{amsmath,amsfonts,amsthm} % Math packages
+\usepackage[pdftex]{graphicx}	
+\usepackage{url}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{marginnote}
+\title{Parallel A* Search Algorithm}
+\author{Stephan Boettcher}
+%\date{}
+
+%%% Begin document
+\begin{document}
+\maketitle
+
+\section*{Proposed project}
+The A* search algorithm is a standard search algorithm for determine the shortest path. The A* algorithm is used in everything from solutions to the Traveling Salesman problem to path generation in games. This project could be useful in a number of different fields including logistics planning, mission planning and drone delivery paths. This project would implement the A* algorithm, then parallelize it first on the CPU and eventually on the GPU. If time permits, the algorithm may be extended to handle dynamic changes to the path topography and thus begin a rerouting of the path. 
+
+\section*{Project Milestones/Steps}
+Steps jn this project:
+\begin{enumerate}
+\item Literature research to determine parallelization methods for path-finding algorithms
+\item Create a serial A* algorithm
+\item Begin CPU parallelization
+\item (time permitting) Begin GPU parallelization
+\item (time permitting) Begin serial reroute algorithm
+\item (time permitting) Begin parallelization of the reroute
+\end{enumerate}
+\section*{Risks}
+The biggest risk I foresee in this project is attempting too much. But as the list above shows, there is a minimum achievement level I expect to make. Another risk may be the A* algorithm itself. The algorithm may scale up poorly or have too many serial dependancies. If this should occur, I will attempt to continue the project with another path-finding algorithm and parallelize that. 
+\end{document}
